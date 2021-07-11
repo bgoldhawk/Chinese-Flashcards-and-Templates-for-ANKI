@@ -1,0 +1,1007 @@
+[
+    {
+        "chinese": "得",
+        "pinyin": "děi",
+        "english": "to have to, to need to (particle used to express capability, possibility, degree, effect...); must; ought to; to need to; will",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "(口, = 需要) need",
+                "examples": [
+                    {
+                        "chinese": "买房`得`多少钱",
+                        "pinyin": "Mǎifáng `děi` duōshao qián?",
+                        "english": "How much money do you `need to` buy a house?"
+                    }
+                ]
+            },
+            {
+                "type": "(= 必要) must",
+                "examples": [
+                    {
+                        "chinese": "要想成功,就`得`艰苦奋斗",
+                        "pinyin": "Yào xiǎng chénggōng, jiù `děi` jiānkǔ fèndòu",
+                        "english": "If you want to succeed, you `must` work hard"
+                    }
+                ]
+            },
+            {
+                "type": "(表示推测) will",
+                "examples": [
+                    {
+                        "chinese": "再不听话,就`得`挨批评了",
+                        "pinyin": "Zài bù tīnghuà, jiù `děi` ái pīpíng le.",
+                        "english": "If you don't do as you are told, you `will` get a telling off"
+                    },
+                    {
+                        "chinese": "快走,电影`得`开始了",
+                        "pinyin": "Kuài zǒu, diànyǐng `děi` kāishǐ le",
+                        "english": "Get a move on, the film's `just about to` start"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "死",
+        "pinyin": "sǐ",
+        "english": "to die; impassable; uncrossable; inflexible; rigid; extremely",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "(= 死亡的) dead",
+                "examples": [
+                    {
+                        "chinese": "人皆有一`死`",
+                        "pinyin": "Rén jiē yǒu yī`sǐ`",
+                        "english": "All men must `die`"
+                    },
+                    {
+                        "chinese": "他没有白`死`",
+                        "pinyin": "Tā méiyǒu bái `sǐ`",
+                        "english": "He didn't die in vain"
+                    }
+                ]
+            },
+            {
+                "type": "implacable",
+                "examples": [
+                    {
+                        "chinese": "`死`敌",
+                        "pinyin": "`sǐ`dí",
+                        "english": "`sworn` enemy"
+                    }
+                ]
+            },
+            {
+                "type": "impassable",
+                "examples": [
+                    {
+                        "chinese": "`死`胡同",
+                        "pinyin": "`sǐ`hútòng",
+                        "english": "`dead` end"
+                    }
+                ]
+            },
+            {
+                "type": "fixed",
+                "examples": [
+                    {
+                        "chinese": "我们要把出发的时间定死",
+                        "pinyin": "Wǒmen yào bǎ chūfā de shíjiān `dìngsǐ`",
+                        "english": "We should `fix` our departure time."
+                    }
+                ]
+            },
+            {
+                "type": "stubbornly",
+                "examples": [
+                    {
+                        "chinese": "`死`等",
+                        "pinyin": "`sǐ` děng",
+                        "english": "wait `indefinitely`"
+                    }
+                ]
+            },
+            {
+                "type": "extremely",
+                "examples": [
+                    {
+                        "chinese": "累`死`我了",
+                        "pinyin": "Lèi`sǐ` wǒ le",
+                        "english": "I'm `completely` exhausted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "安排",
+        "pinyin": "ān pái",
+        "english": "to arrange; to plan; to set up",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "我来给你`安排`住处",
+                        "pinyin": "Wǒ lái gěi nǐ `ānpái` zhùchù",
+                        "english": "I'll `fix` you up with a place to stay."
+                    },
+                    {
+                        "chinese": "她把计划`安排`全弄糟了",
+                        "pinyin": "Tā bǎ jìhuà `ānpái` quán nòng zāole",
+                        "english": "She made a complete cock-up of the `arrangements`"
+                    },
+                    {
+                        "chinese": "我希望这些`安排`会得到你的同意。",
+                        "pinyin": "Wǒ xīwàng zhèxiē `ānpái` huì dédào nǐ de tóngyì.",
+                        "english": "I hope the `arrangements` meet with your approval."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "吃惊",
+        "pinyin": "chī jīng",
+        "english": "to be startled; to be shocked; to be amazed",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "她这么快就去了澳大利亚,让人`吃了一惊`",
+                        "pinyin": "Tā zhème kuài jiù qùle Àodàlìyà, ràng rén `chī le yī jīng`",
+                        "english": "he speed with which she left for Australia `surprised` everyone"
+                    },
+                    {
+                        "chinese": "他一脸`吃惊`的神情",
+                        "pinyin": "Tā yī liǎn `chījīng` de shénqíng",
+                        "english": "He had a `startled` look on his face"
+                    },
+                    {
+                        "chinese": "这消息使他们大为`吃惊`",
+                        "pinyin": "Zhè xiāoxī shǐ tāmen dà wéi `chījīng`",
+                        "english": "The news greatly `surprised` them"
+                    },
+                    {
+                        "chinese": "发现她在那，我感到很吃惊",
+                        "pinyin": "Fāxiàn tā zài nà, wǒ gǎndào hěn `chījīng`",
+                        "english": "I was `amazed` to find her there"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "关键",
+        "pinyin": "guān jiàn",
+        "english": "crucial point; crux; key; crucial; pivotal",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "这正是问题的`关键`",
+                        "pinyin": "Zhè zhèng shì wèntí de `guānjiàn`",
+                        "english": "That's `the point`"
+                    },
+                    {
+                        "chinese": "问题的关键就在那里",
+                        "pinyin": "Wèntí de guānjiàn jiù zài nàlǐ",
+                        "english": "Therein lies the crux of the matter"
+                    },
+                    {
+                        "chinese": "教师在学习中的`关键`作用是不该忽视的",
+                        "pinyin": "Jiàoshī zài xuéxí zhōng de `guānjiàn` zuòyòng shì bù gāi hūshì de",
+                        "english": "The `key` role of the teacher in the learning process should not be neglected"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "任何",
+        "pinyin": "rèn hé",
+        "english": "any; whatever; whichever; whatsoever",
+        "audio": "",
+        "vocabtype": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "你们可以从中选择`任何`一个",
+                        "pinyin": "Nǐmen kěyǐ cóngzhōng xuǎnzé `rènhé` yī gè",
+                        "english": "You can choose any one of them"
+                    },
+                    {
+                        "chinese": "任何人都不能迟到",
+                        "pinyin": "`Rènhé` rén dōu bùnéng chídào",
+                        "english": "`No one` can be late"
+                    },
+                    {
+                        "chinese": "`任何`事物都有两面性",
+                        "pinyin": "`Rènhé` shìwù dōu yǒu liǎngmiànxìng",
+                        "english": "`Every` coin has two sides"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "详细",
+        "pinyin": "xiáng xì",
+        "english": "detailed; in detail; minute",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "老板需要一份`详细`的报告",
+                        "pinyin": "lǎobǎn xūyào yī fèn `xiángxì` de bàogào",
+                        "english": "The boss requires a `detailed` report"
+                    },
+                    {
+                        "chinese": "他`详细`叙述了事情发生的经过",
+                        "pinyin": "Tā `xiángxì` xùshùle shìqing fāshēng de jīngguò",
+                        "english": "He recounted `in detail` how the incident occurred"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "困难",
+        "pinyin": "kùn nan",
+        "english": "difficult; problem; issue, difficulty (financial etc) ",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "difficult",
+                "examples": [
+                    {
+                        "chinese": "这个问题非常`困难``",
+                        "pinyin": "Zhège wèntí fēicháng `kùnnán`",
+                        "english": "The problem was very `difficult`"
+                    },
+                    {
+                        "chinese": "克服`困难`",
+                        "pinyin": "kèfú `kùnnan`",
+                        "english": "overcome `difficulties`"
+                    },
+                    {
+                        "chinese": "弹钢琴很`困难`",
+                        "pinyin": "Tàn gāngqín hěn `kùnnán`",
+                        "english": "It is `difficult` to play the piano."
+                    },
+                    {
+                        "chinese": "学习外语是`困难的`",
+                        "pinyin": "Xuéxí wàiyǔ shì `kùnnán` de",
+                        "english": "Learning a foreign language is `difficult`"
+                    }
+                ]
+            },
+            {
+                "type": "poor",
+                "examples": [
+                    {
+                        "chinese": "他家生活`困难`",
+                        "pinyin": "Tā jiā shēnghuó `kùnnan`",
+                        "english": "His family lives in `poverty`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "暂时",
+        "pinyin": "zàn shí",
+        "english": "temporary; provisional; for the time being",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`暂时`的需要",
+                        "pinyin": "`zànshí` de xūyào",
+                        "english": "`temporary` need"
+                    },
+                    {
+                        "chinese": "`暂时`还用不着，谢谢你",
+                        "pinyin": "`Zhànshí` hái yòng bùzháo, xièxiè nǐ",
+                        "english": "`Not at the moment`, thank you"
+                    },
+                    {
+                        "chinese": "这个问题`暂时`放在一边",
+                        "pinyin": "Zhège wèntí `zhànshí` fàng zài yībiān",
+                        "english": "PThis issue was `temporarily` put aside"
+                    },
+                    {
+                        "chinese": "她`暂时`隶属于国防部",
+                        "pinyin": "Tā `zhànshí` lìshǔ yú guófáng bù",
+                        "english": "She's on attachment to `(ie temporarily working in)` the Ministry of Defence"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "证明",
+        "pinyin": "zhèng míng",
+        "english": "proof; certificate; identification; testimonial; to prove; to testify; to confirm the truth of;",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "v. Prove",
+                "examples": [
+                    {
+                        "chinese": "她一次次`证明了`自己",
+                        "pinyin": "Tā yícìcì `zhèngmíngle zìjǐ",
+                        "english": "She has `proved` herself over and over again"
+                    },
+                    {
+                        "chinese": "`证明`某人的观点",
+                        "pinyin": "`Zhèngmíng` mǒurén de guāndiǎn",
+                        "english": "`to prove` one's point"
+                    },
+                    {
+                        "chinese": "成功的主要`证明`是业绩",
+                        "pinyin": "Chénggōng de zhǔyào `zhèngmíng` shì yèjì",
+                        "english": "The key `evidence` of success is the financial results"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "养成",
+        "pinyin": "yǎng chéng",
+        "english": " To form the habit of; to acquire; to cultivate; to raise",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`养成`对某物的爱好",
+                        "pinyin": "`Yǎngchéng` duì mǒuwù de àihào",
+                        "english": "`to acquire` a taste for something"
+                    },
+                    {
+                        "chinese": "请别`养成`这种习惯",
+                        "pinyin": "Qǐng bié `yǎngchéng` zhèzhǒng xíguàn",
+                        "english": "Don't make `a habit` of it，please"
+                    },
+                    {
+                        "chinese": "好习惯的`养成`很重要",
+                        "pinyin": "Hǎo xíguàn de `yǎngchéng` hěn zhòngyào",
+                        "english": "It's important `to develop` good habits"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "总结",
+        "pinyin": "zǒng jié",
+        "english": "to sum up; to conclude; summary; resume",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "工作说明书概括`总结了`设计要求",
+                        "pinyin": "Gōngzuò shuōmíngshū gàikuò `zǒngjiéle` shèjì yāoqiú",
+                        "english": "The job specifications `summarized` the design criteria"
+                    },
+                    {
+                        "chinese": "重要的建议都一一列入`总结`报告",
+                        "pinyin": "Zhòngyào de jiànyì dōu yīyī lièrù `zǒngjié` bàogào",
+                        "english": "Key recommendations are listed in the summary of the report"
+                    },
+                    {
+                        "chinese": "他把发言压缩成了一个10分钟的总结",
+                        "pinyin": "Tā bǎ fāyán yāsuō chéngle yígè 10 fēnzhōng de `zǒngjié`",
+                        "english": "He condensed the speech into a 10 minute `summary`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "速度",
+        "pinyin": "sù dù",
+        "english": "speed; rate; velocity",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "n.",
+                "examples": [
+                    {
+                        "chinese": "以最高`速度`",
+                        "pinyin": "Yǐ zuìgāo `sùdù`",
+                        "english": "at full/ top `speed`"
+                    },
+                    {
+                        "chinese": "马放慢了速度",
+                        "pinyin": "Mǎ fàngmànle `sùdù`",
+                        "english": "The horse slacked his `pace`"
+                    },
+                    {
+                        "chinese": "电梯下降的速度很快",
+                        "pinyin": "Diàntī `xiàjiàng de sùdù` hěnkuài",
+                        "english": "The descent of the elevator was quite swift"
+                    },
+                    {
+                        "chinese": "南希打字`速度`非常快",
+                        "pinyin": "Nánxī dǎzì `sùdù` fēicháng kuài",
+                        "english": "Nancy can type very quickly"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "批评",
+        "pinyin": "pī píng",
+        "english": "to criticize; criticism",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "我接受她的`批评`",
+                        "pinyin": "Wǒ jiēshòu tā de `pīpíng`",
+                        "english": "I am subject to her `criticism`"
+                    },
+                    {
+                        "chinese": "你怎样`批评`都可以",
+                        "pinyin": "Nǐ zěnyàng `pīpíng` dōu kěyǐ.",
+                        "english": "Whatever `criticisms` you have are fine"
+                    },
+                    {
+                        "chinese": "有些人就喜欢`批评`我们",
+                        "pinyin": "Yǒuxiērén jiù xǐhuan `pīpíng` wǒmen",
+                        "english": "Some people just like to `put us down`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "普遍",
+        "pinyin": "pǔ biàn",
+        "english": "common; commonly; universal; general; widespread;",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`普遍`感兴趣的话题",
+                        "pinyin": "`Pǔbiàn` gǎnxìngqù de huàtí",
+                        "english": "a topic of `general` interest"
+                    },
+                    {
+                        "chinese": "与普`遍观`点相反的是",
+                        "pinyin": "Yǔ `pǔbiàn` guāndiǎn xiāngfǎn de shì",
+                        "english": "contrary to `popular` belief"
+                    },
+                    {
+                        "chinese": "夏季,大家`普遍`使用空调,耗能巨大",
+                        "pinyin": "Xiàjì，dàjiā `pǔbiàn` shǐyòng kōngtiáo，hàonéng jùdà",
+                        "english": "In summer, people all use air conditioners, which consumes plenty of energy"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "另外",
+        "pinyin": "lìng wài",
+        "english": "other; in addition; additionaly, furthermore",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "pron. other",
+                "examples": [
+                    {
+                        "chinese": "我不喜欢这些衣服，我喜欢`另外`那些",
+                        "pinyin": "Wǒ bù xǐhuan zhèxiē yīfu，wǒ xǐhuan `lìngwài` nàxiē",
+                        "english": "I don't like these clothes – I like the `others`"
+                    },
+                    {
+                        "chinese": "我压住`另外`一枚硬币",
+                        "pinyin": "Wǒ yā zhù `lìngwài` yìméi yìngbì",
+                        "english": "I pressed in `another` coin"
+                    },
+                    {
+                        "chinese": "拒绝某事转而选择`另外`某事",
+                        "pinyin": "Jùjué mǒushì zhuǎn'ér xuǎnzé `lìngwài` mǒushì",
+                        "english": "to reject something in favour of something else"
+                    }
+                ]
+            },
+            {
+                "type": "adv. in addition",
+                "examples": [
+                    {
+                        "chinese": "我去了邮局，另外还去了果蔬店",
+                        "pinyin": "Wǒ qùle yóujú，`lìngwài` hái qùle guǒshū diàn",
+                        "english": "`In addition` to going to the post office, I also went to the greengrocer"
+                    },
+                    {
+                        "chinese": "`另外`，企业家有时还会破产",
+                        "pinyin": "`Lìngwài`, qǐyèjiā yǒushí hái huì pòchǎn",
+                        "english": "`And` entrepreneurs do sometimes go bankrupt"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "既然",
+        "pinyin": "jì rán",
+        "english": "since; as; this being the case",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`既然`你知道错误了，为什么不及时纠正呢？",
+                        "pinyin": "`Jìrán` nǐ zhīdào cuòwù le，wèishénme bù jíshí jiūzhèng ne?",
+                        "english": "`Since` you knew you'd made a mistake, why didn't you put it right immediately?"
+                    },
+                    {
+                        "chinese": "`既然`他执意要去，你就答应吧",
+                        "pinyin": "`Jìrán` tā zhíyì yào qù，nǐ jiù dāyìng bā",
+                        "english": "`Seeing as` he's determined to go, why don't you just agree to it?"
+                    },
+                    {
+                        "chinese": "`既然`你不能来，我就自己去",
+                        "pinyin": "`Jìrán` nǐ bùnéng lái, wǒ jiù zìjǐ qù",
+                        "english": "`as` you can't come, I'll go on my own"
+                    },
+                    {
+                        "chinese": "`既然`有事，何不早说",
+                        "pinyin": "`Jìrán` yǒushì，hébù zǎoshuō",
+                        "english": "You may have had things to do, but why didn't you say so earlier"
+                    },
+                    {
+                        "chinese": "`既然`你买不起为什么还要买",
+                        "pinyin": "`Jìrán` nǐ mǎi bùqǐ wèishénme háiyào mǎi",
+                        "english": "why did you buy that `when` you can't afford it"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "发展",
+        "pinyin": "fā zhǎn",
+        "english": "to develop; to grow; to expand; development; growth",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "v. to develop",
+                "examples": [
+                    {
+                        "chinese": "发展友好关系",
+                        "pinyin": "fāzhǎn yǒuhǎoguānxì",
+                        "english": "develop friendly relations"
+                    },
+                    {
+                        "chinese": "中国的发展是对全球的重大贡献",
+                        "pinyin": "Zhōngguóde fāzhǎn shì duì quánqiúde zhòngdàgòngxiàn",
+                        "english": "The development of China has a lot to offer the world"
+                    },
+                    {
+                        "chinese": "报`业发`展态势良好",
+                        "pinyin": "Bàoyè `fāzhǎn` tàishìliánghǎo",
+                        "english": "The newspaper industry is doing rather well"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "调查",
+        "pinyin": "diào chá",
+        "english": "investigation; inquiry; to investigate; to survey; survey; (opinion) poll",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "着人去`调查`",
+                        "pinyin": "Zhe rén qù `diàochá`",
+                        "english": "send someone `to investigate`"
+                    },
+                    {
+                        "chinese": "他会独自进行`调查`",
+                        "pinyin": "Tā huì dúzì jìnxíng `diàochá`",
+                        "english": "He'll be `investigating` on his own account"
+                    },
+                    {
+                        "chinese": "警官`调查了`这起事故",
+                        "pinyin": "Jǐngguān `diàochále` zhè qǐ shìgù",
+                        "english": "The officers `inquired` into the accident"
+                    },
+                    {
+                        "chinese": "九成`调查`者持赞同观点",
+                        "pinyin": "Jiǔchéng `diàochá` zhě chí zàntóng guāndiǎn",
+                        "english": "Ninety percent of the people `surveyed` were in favor"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "当时",
+        "pinyin": "dāng shí",
+        "english": "at that time;then;while",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "他`当时`不知道犯了法",
+                        "pinyin": "Tā `dāngshí` bùzhīdào fànlefǎ",
+                        "english": "`At the time` he didn't know he'd broken the law"
+                    },
+                    {
+                        "chinese": "我当时高兴极了",
+                        "pinyin": "Wǒ `dāngshí` gāoxìngjíle",
+                        "english": "I was ecstatic `at the time`"
+                    },
+                    {
+                        "chinese": "我们`当时`惊讶极了",
+                        "pinyin": "Wǒmen `dāngshí` jīngyà jíle!",
+                        "english": "We had such a surprise!"
+                    },
+                    {
+                        "chinese": "`当时`在任的是个女总理",
+                        "pinyin": "`Dāngshí` zài rèn de shì gè nǚ zǒnglǐ",
+                        "english": "The `then` Prime Minister was a woman"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "是否",
+        "pinyin": "shì fǒu",
+        "english": "whether (or not); if; is or isn't",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "我不知道他是否同意",
+                        "pinyin": "Wǒ bùzhīdào tā shìfǒu tóngyì",
+                        "english": "I don't know whether he agrees or not"
+                    },
+                    {
+                        "chinese": "你是否赌赢家",
+                        "pinyin": "Nǐ shìfǒu dǔ yíngjiā?",
+                        "english": "Did you back the winner?"
+                    },
+                    {
+                        "chinese": "问他是否能来",
+                        "pinyin": "Wèn tā shìfǒu néng lái",
+                        "english": "ask him if he can come"
+                    }
+                ]
+            },
+            {
+                "type": "pattern: 是否...还不...",
+                "examples": [
+                    {
+                        "chinese": "球赛`是否`举行`还不`确定",
+                        "pinyin": "qiúsài `shìfŏu` jŭxíng `hái bù` quèdìng",
+                        "english": "Its uncertain whether the game will be held."
+                    },
+                    {
+                        "chinese": "他`是否`来`还不`知道",
+                        "pinyin": "tā `shìfŏu` lái `hái bù zhīdào`",
+                        "english": "It is unknown whether he will come"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "通知",
+        "pinyin": "tōng zhī",
+        "english": "to notify; to inform; notice; notification",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "我们遗憾地`通知`您",
+                        "pinyin": "Wǒmen yíhàn de `tōngzhī` nín...",
+                        "english": "we regret `to inform` you that..."
+                    },
+                    {
+                        "chinese": "直到另行`通知`",
+                        "pinyin": "Zhídào lìngxíng `tōngzhī`",
+                        "english": "until further `notice`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "",
+        "pinyin": "",
+        "english": "",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    },
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "",
+        "pinyin": "",
+        "english": "",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    },
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "",
+        "pinyin": "",
+        "english": "",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    },
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "",
+        "pinyin": "",
+        "english": "",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    },
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "",
+        "pinyin": "",
+        "english": "",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    },
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "",
+        "pinyin": "",
+        "english": "",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    },
+                    {
+                        "chinese": "",
+                        "pinyin": "",
+                        "english": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "高速公路",
+        "pinyin": "gāo sù gōng lù",
+        "english": "highway; freeway;expressway",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "这条高速公路直通上海",
+                        "pinyin": "Zhè tiáo gāosùgōnglù zhítōng Shànghǎi",
+                        "english": "This expressway leads directly to Shanghai"
+                    },
+                    {
+                        "chinese": "我驾着车驶向`高速公路`",
+                        "pinyin": "Wǒ jiàzhechē shǐxiàng `gāosùgōnglù`",
+                        "english": "I was steering the car towards the `highway`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "打招呼",
+        "pinyin": "dǎ zhāo hu",
+        "english": "to greet sb by word or action; to inform; to give prior notice",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "v. Greet",
+                "examples": [
+                    {
+                        "chinese": "来跟我的小朋友`打招呼`",
+                        "pinyin": "Lái gēn wǒ de xiǎopéngyǒu `dǎzhāohū`",
+                        "english": "`Say hello` to my little friend!"
+                    },
+                    {
+                        "chinese": "她向路过的警车`打招呼`，警察将他逮捕了",
+                        "pinyin": "Tā xiàng lùguò de jǐngchē `dǎzhāohū`, jǐngchá jiāng tā dàibǔle",
+                        "english": "She `hailed` a passing police car, and the police picked him up"
+                    },
+                    {
+                        "chinese": "她无精打采地跟她的客人`打招呼`",
+                        "pinyin": "Tā wújīngdǎcǎi de gēn tā de kèrén `dǎzhāohū`",
+                        "english": "She `greeted` her guests joylessly"
+                    },
+                    {
+                        "chinese": "他跟我`打招呼`，我没答理他",
+                        "pinyin": "Tā gēn wǒ `dǎzhāohū`，wǒ méidālǐ tā",
+                        "english": "He `said hello` to me, but I didn't acknowledge him"
+                    }
+                ]
+            },
+            {
+                "type": "v. to give notice",
+                "examples": [
+                    {
+                        "chinese": "没有提前`打招呼`，他就悄然离开了",
+                        "pinyin": "Méiyǒu tíqián `dǎzhāohū`, tā jiù qiǎorán líkāi le",
+                        "english": "He has gone over the hill without any `notice`"
+                    },
+                    {
+                        "chinese": "他们来的时候很少提前`打招呼`",
+                        "pinyin": "Tāmen lái de shíhou hěnshǎo tíqián `dǎzhāohū`",
+                        "english": "They gave little `warning` of their arrival"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "互相",
+        "pinyin": "hù xiāng",
+        "english": "each other; mutually; mutual",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "他们`互相`不认识",
+                        "pinyin": "Tāmen `hùxiāng` bú rènshi",
+                        "english": "they are strangers"
+                    },
+                    {
+                        "chinese": "大家`互相`交换了意见",
+                        "pinyin": "Dàjiā `hùxiāng` jiāohuànle yìjiàn",
+                        "english": "Everyone exchanged ideas"
+                    },
+                    {
+                        "chinese": "他们`互相`熟识",
+                        "pinyin": "Tāmen `hùxiāng` shúshí",
+                        "english": "They were acquainted."
+                    },
+                    {
+                        "chinese": "他们`互相`取笑",
+                        "pinyin": "Tāmen `hùxiāng` qǔxiào",
+                        "english": "They played off each other"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "究竟",
+        "pinyin": "jiū jìng",
+        "english": "actually; outcome; result; after all (when all is said and done);",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "",
+                "examples": [
+                    {
+                        "chinese": "究竟发生了什么事",
+                        "pinyin": "Jiūjìng fāshēngle shénmeshì?",
+                        "english": "What actually happened?"
+                    },
+                    {
+                        "chinese": "究竟为什么不呢？",
+                        "pinyin": "Jiūjìng wèishénme bùne",
+                        "english": "why ever not?"
+                    },
+                    {
+                        "chinese": "他究竟想去哪里",
+                        "pinyin": "Tā jiūjìng xiǎng qù Nǎlǐ ？",
+                        "english": "Wherever does he wants to go?"
+                    },
+                    {
+                        "chinese": "他究竟在做什么",
+                        "pinyin": "Tā jiūjìng zài zuòshénme",
+                        "english": "what in the world is he doing"
+                    }
+                ]
+            }
+        ]
+    }
+]
