@@ -732,92 +732,130 @@
         ]
     },
     {
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "正好",
+        "pinyin": "zhèng hǎo",
+        "english": "precisely; exactly; just in time; just right; just enough; to happen to; to chance to; by chance; it just so happens that",
         "audio": "",
         "sentences": [
             {
-                "type": "",
                 "examples": [
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "她的手指`正好`落在下巴尖上",
+                        "pinyin": "Tā de shǒuzhǐ `zhènghǎo` luòzài xiàba jiān shàng",
+                        "english": "Her finger fell `sharply` on the button"
                     },
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "这条裤子他穿着肥瘦儿`正好`",
+                        "pinyin": "Zhè tiáo kùzi tā chuān zhe féishòur `zhènghǎo`！",
+                        "english": "This pair of trousers suits him `perfectly`"
+                    },
+                    {
+                        "chinese": "`正好` 你在家",
+                        "pinyin": "`zhènghăo` nĭ zài jiā",
+                        "english": "`Good`.You're home"
+                    },
+                    {
+                        "chinese": "那杯茶来得`正好`",
+                        "pinyin": "nà bēi chá láidé `zhènghăo`",
+                        "english": "That cup of tea was `just the job`"
                     }
                 ]
             }
         ]
     },
     {
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "艺术",
+        "measureword":"种[zhong3]",
+        "pinyin": "yì shù",
+        "english": "art; artistic",
         "audio": "",
         "sentences": [
             {
-                "type": "",
+                "type": "n. art",
                 "examples": [
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "钟爱艺术的人",
+                        "pinyin": "Zhōng'ài `yìshù` de rén",
+                        "english": "a lover of `art/ an art` lover"
                     },
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "大型`艺术`展",
+                        "pinyin": "dàxíng `yìshù`zhǎn",
+                        "english": "large-scale `art` exhibition"
+                    }
+                ]
+            },
+            {
+                "type": "adj. artistic",
+                "examples": [
+                    {
+                        "chinese": "花园的布局很`艺术`",
+                        "pinyin": "Huāyuán de bùjú hěn `yìshù`",
+                        "english": "The layout of the garden is very `artistic`"
                     }
                 ]
             }
         ]
     },
     {
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "永远",
+        "pinyin": "yǒng yuǎn",
+        "english": "forever; eternal",
         "audio": "",
         "sentences": [
             {
-                "type": "",
                 "examples": [
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "他们希望一辈子生活在一起，`永远不`分离",
+                        "pinyin": "Tāmen xīwàng yībèizi shēnghuó zài yìqǐ，`yǒngyuǎn bù` fēnlí",
+                        "english": "They want to be together all their lives, and `never` part"
                     },
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "我`永远`不…  ",
+                        "pinyin": "Wǒ `yǒngyuǎn` bù …",
+                        "english": "I wouldn't dream of..."
+                    },
+                    {
+                        "chinese": "他永远地`离开了`",
+                        "pinyin": "Tā yǒngyuǎn de `líkāile`",
+                        "english": "He left for good"
+                    },
+                    {
+                        "chinese": "我会`永远`记住她的！",
+                        "pinyin": "Wǒ huì `yǒngyuǎn` jìzhù tā de!",
+                        "english": "I will `always` keep her in my heart!"
                     }
                 ]
             }
         ]
     },
     {
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "使用",
+        "pinyin": "shǐ yòng",
+        "english": "to use; to employ; to apply; to make use of",
         "audio": "",
         "sentences": [
             {
-                "type": "",
                 "examples": [
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "我奶奶不会`使用`电脑",
+                        "pinyin": "Wǒ nǎinai búhuì `shǐyòng` diànnǎo",
+                        "english": "My grandmother is not computer-literate"
                     },
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "我奶奶正在学习使用电脑",
+                        "pinyin": "Wǒ nǎinai zhèngzài xuéxí `shǐyòng` diànnǎo",
+                        "english": "My grandma is learning `to use` a computer"
+                    },
+                    {
+                        "chinese": "厕所正在有人`使用`",
+                        "pinyin": "Cèsuǒ zhèngzài yǒu rén `shǐyòng`",
+                        "english": "The lavatory is in `use`"
+                    },
+                    {
+                        "chinese": "人们正在过多地`使用`汽车  ",
+                        "pinyin": "Rénmen zhèngzài guòduō de `shǐyòng` qìchē",
+                        "english": "people are `using` their cars too much"
                     }
                 ]
             }
