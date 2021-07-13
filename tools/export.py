@@ -4,7 +4,6 @@ import urllib.parse
 import argparse
 
 def urlencode(str):
-    print(str)
     return urllib.parse.quote(str)
 
 
@@ -18,7 +17,6 @@ def writeToCsvFile(importFileName, exportFileName):
     with open(exportFileName, 'w') as exportFile:
         writer = csv.writer(exportFile)
         for i in  data:
-            print(i['chinese'])
             writer.writerow(["chinese", "pinyin", "english", "encodedcard"])
             writer.writerow([i['chinese'] , i['pinyin'] , i['english'] , urlencode(json.dumps(i, ensure_ascii=False))])
 
