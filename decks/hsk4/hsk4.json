@@ -329,7 +329,7 @@
     {
         "chinese": "证明",
         "pinyin": "zhèng míng",
-        "english": "proof; certificate; identification; testimonial; to prove; to testify; to confirm the truth of;",
+        "english": "proof; certificate; identification; testimonial; to prove; to testify; to confirm the truth of",
         "audio": "",
         "sentences": [
             {
@@ -471,7 +471,7 @@
     {
         "chinese": "普遍",
         "pinyin": "pǔ biàn",
-        "english": "common; commonly; universal; general; widespread;",
+        "english": "common; commonly; universal; general; widespread",
         "audio": "",
         "sentences": [
             {
@@ -862,46 +862,49 @@
         ]
     },
     {
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "污染",
+        "pinyin": "wū rǎn",
+        "english": "pollution; contamination",
         "audio": "",
         "sentences": [
             {
-                "type": "",
                 "examples": [
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "`污染`正在威胁这些作物",
+                        "pinyin": "`Wūrǎn` zhèngzài wēixié zhèxiē zuòwù",
+                        "english": "The `pollution` is endangering the crops"
                     },
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "`污染`正在危害我们所有的人",
+                        "pinyin": "`Wūrǎn` zhèngzài wēihài wǒmen suǒyǒu de rén",
+                        "english": "The `pollution` is killing all of us"
                     }
                 ]
             }
         ]
     },
     {
-        "chinese": "",
-        "pinyin": "",
-        "english": "",
+        "chinese": "民族",
+        "pinyin": "mín zú",
+        "english": "nationality; ethnic group",
         "audio": "",
         "sentences": [
             {
-                "type": "",
                 "examples": [
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "中华民族是勤劳的`民族`",
+                        "pinyin": "Zhōnghuámínzú shì qínláo de `mínzú`",
+                        "english": "The Chinese are an industrious `nation`"
                     },
                     {
-                        "chinese": "",
-                        "pinyin": "",
-                        "english": ""
+                        "chinese": "中国有56个`民族`",
+                        "pinyin": "Zhōngguó yǒu 56 gè `mínzú`",
+                        "english": "China has 56 different `ethnic groups`"
+                    },
+                    {
+                        "chinese": "煽动`民族`仇恨",
+                        "pinyin": "shāndòng `mínzú` chóuhèn",
+                        "english": "incite `racial` hatred"
                     }
                 ]
             }
@@ -1012,7 +1015,7 @@
     {
         "chinese": "究竟",
         "pinyin": "jiū jìng",
-        "english": "actually; outcome; result; after all (when all is said and done);",
+        "english": "actually; outcome; result; after all (when all is said and done)",
         "audio": "",
         "sentences": [
             {
@@ -1037,6 +1040,540 @@
                         "chinese": "他究竟在做什么",
                         "pinyin": "Tā jiūjìng zài zuòshénme",
                         "english": "what in the world is he doing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "流行",
+        "pinyin": "liú xíng",
+        "english": "popular; fashionable; prevalent, to spread; to rage (of contagious disease); ",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "现在不`流行`长发",
+                        "pinyin": "Xiànzài bù `liúxíng` chángfà",
+                        "english": "Today's `fashion` doesn't allow long hair"
+                    },
+                    {
+                        "chinese": "重新又`流行`起来",
+                        "pinyin": "Chóngxīn yòu `liúxíng` qǐlái",
+                        "english": "to come back into fashion"
+                    },
+                    {
+                        "chinese": "`流行`音乐不合我的口味",
+                        "pinyin": "`Liúxíng`yīnyuè bùhé wǒ de kǒuwè",
+                        "english": "`Pop` music is not to my taste"
+                    }                    ,
+                    {
+                        "chinese": "这个地区地方病`流行`",
+                        "pinyin": "Zhège dìqū dìfāngbìng `liúxíng`",
+                        "english": "Endemic diseases are `common` in this area"
+                    },
+                    {
+                        "chinese": "斗鸡在某些地方很`流行`",
+                        "pinyin": "Dòujī zài mǒuxiē Dìfang hěn `liúxíng`",
+                        "english": "Chicken fighting is very `popular` in some places"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "感情",
+        "pinyin": "gǎn qíng",
+        "english": "feeling; emotion; sensation",
+        "measureword":"种[zhong3]",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "他表露`感情`",
+                        "pinyin": "Tā biǎolù `gǎnqíng`",
+                        "english": "He wears his heart on his sleeve"
+                    },
+                    {
+                        "chinese": "我对你的`感情`依然如故",
+                        "pinyin": "Wǒ duì nǐ de `gǎnqíng` yīrán rúgù",
+                        "english": "My `affection` for you never changes"
+                    },
+                    {
+                        "chinese": "她为什么玩弄我的`感情`",
+                        "pinyin": "tā wèishénme wánnòng wǒ de `gǎnqíng`",
+                        "english": "Why is she toying with my `feelings`"
+                    }
+                    ,
+                    {
+                        "chinese": "伤害某人的`感情`",
+                        "pinyin": "Shānghài mǒurén de `gǎnqíng`",
+                        "english": "to hurt somebody's `feelings`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "方法",
+        "pinyin": "fāng fǎ",
+        "english": "method; way; means",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "她工作很有`方法`",
+                        "pinyin": "Tā gōngzuò hěn yǒu `fāngfǎ`",
+                        "english": "She worked `methodically`"
+                    },
+                    {
+                        "chinese": "他排斥我们的`方法`",
+                        "pinyin": "Tā páichì wǒmen de `fāngfǎ`",
+                        "english": "He kept out of our way"
+                    },
+                    {
+                        "chinese": "找到解决的`方法`",
+                        "pinyin": "Zhǎodào jiějué de `fāngfǎ`",
+                        "english": "to navigate (a path) through something"
+                    }
+                    ,
+                    {
+                        "chinese": "现成的解决问题的`方法`",
+                        "pinyin": "xiànchéng de jiějué wèntí de `fāngfǎ`",
+                        "english": "a ready-made solution to the problem"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "粗心",
+        "pinyin": "cū xīn",
+        "english": "careless; thoughtless",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "他责怪孩子太`粗心`",
+                        "pinyin": "Tā zéguài háizǐ tài `cūxīn`",
+                        "english": "He accused the child of being `thoughtless`"
+                    },
+                    {
+                        "chinese": "你偏要这么`粗心`吗",
+                        "pinyin": "Nǐ piān yào zhème `cūxīn` ma",
+                        "english": "Must you be so `careless`?"
+                    },
+                    {
+                        "chinese": "下次工作时不要那么`粗心`",
+                        "pinyin": "Xiàcì gōngzuò shí búyào nàme `cūxīn`",
+                        "english": "Don't be so `careless` in your work next time"
+                    }
+                    ,
+                    {
+                        "chinese": "没有母亲会聘请`粗心`的保姆",
+                        "pinyin": "Méiyǒu mǔqīn huì pìnqǐng `cūxīn` de bǎomǔ",
+                        "english": "No mother will hire a `careless` babysitter"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "表示",
+        "pinyin": "biǎo shì",
+        "english": "to express; to indicate; to mean; to gesture; to show; attitude",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "type": "V. Express",
+                "examples": [
+                    {
+                        "chinese": "举手`表示`赞成",
+                        "pinyin": "jǔshǒu `biǎoshì` zànchéng",
+                        "english": "raise one's hand to `express` approval"
+                    }
+                ]
+            },
+            {
+                "type": "V. indicate",
+                "examples": [
+                    {
+                        "chinese": "路上结冰了，`表示`温度是零下",
+                        "pinyin": "Lùshàng jiébīngle，`biǎoshì` wēndù shì língxià",
+                        "english": "he road is iced up, which `indicates` that the temperature is below zero"
+                    }
+                ]
+            },
+            {
+                "type": "n. gesture",
+                "examples": [
+                    {
+                        "chinese": "他们不友好的`表示`激怒了我们",
+                        "pinyin": "Tāmen bùyǒuhǎode `biǎoshì` jīnùle wǒmen",
+                        "english": "Their unfriendly `gesture` infuriated us"
+                    }
+                ]
+            },
+            {
+                "type": "n. attitude",
+                "examples": [
+                    {
+                        "chinese": "对于这个决定，他还未做明确的`表示`",
+                        "pinyin": "Duìyú zhègejuédìng，tā háiwèizuò míngquède `biǎoshì`",
+                        "english": "He still hasn't given a clear indication of his `attitud`e towards the decision"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "表扬",
+        "pinyin": "biǎo yáng",
+        "english": "to praise; to commend",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`表扬`某人某事/ 做某事",
+                        "pinyin": "`Biǎoyáng` mǒurén mǒushì/ zuò mǒushì",
+                        "english": "`to commend` somebody for something/ for doing something"
+                    },
+                    {
+                        "chinese": "刚被老师`表扬`，马克洋洋得意",
+                        "pinyin": "Gāng bèi lǎoshī `biǎoyáng`，Mǎkè yángyáng déyì",
+                        "english": "Just `praised` by the teacher, Mark is immensely proud of himself"
+                    },
+                    {
+                        "chinese": "受到她的`表扬`，他更努力了",
+                        "pinyin": "Shòudào tā de `biǎoyáng`, tā gèng nǔlì le",
+                        "english": "Reassured by her `praise` he pressed on"
+                    }
+                    ,
+                    {
+                        "chinese": "听到他的`表扬`，她非常高兴",
+                        "pinyin": "Tīngdào tā de `biǎoyáng`, tā fēichánggāoxìng",
+                        "english": "She was delighted to hear his `praise`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "登机牌",
+        "pinyin": "dēng jī pái",
+        "english": "boarding pass",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "在网上订票的话，你可以在家或者公司打印`登机牌`",
+                        "pinyin": "Zài wǎng shàng dìngpiào de huà, nǐ kěyǐ zài jiā huòzhě Gōngsī dǎyìn `dēngjīpái`",
+                        "english": "If you buy your ticket online, you can print your `boarding card` from home or office"
+                    },
+                    {
+                        "chinese": "请出示您的`登机牌`",
+                        "pinyin": "qĭng chūshì nín de `dēngjīpái`",
+                        "english": "Would you show me your `boarding pass?`"
+                    },
+                    {
+                        "chinese": "我已经换了`登机牌`了",
+                        "pinyin": "wŏ yĭjīng huàn le `dēngjīpái` le",
+                        "english": "I got my `boarding pass`"
+                    }
+                    ,
+                    {
+                        "chinese": "请出示护照和`登机牌`",
+                        "pinyin": "qĭng chūshì hùzhào hé `dēngjīpái`",
+                        "english": "Passport and `Embarkation Card`, please."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "地点",
+        "pinyin": "dì diǎn",
+        "english": "place; site; location; venue",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "建筑队在指定`地点`安营扎寨",
+                        "pinyin": "Jiànzhùduì zài zhǐdìng `dìdiǎn` ānyíng zāzhài",
+                        "english": "The construction crew set camp at the specified `place`"
+                    },
+                    {
+                        "chinese": "日期和`地点`都已经确定好了",
+                        "pinyin": "Rìqī hé `Dìdiǎn` dōu yǐjīng quèdìng hǎo le",
+                        "english": "Date and `place` are already determined"
+                    },
+                    {
+                        "chinese": "这个`地点`被栅栏围了起来",
+                        "pinyin": "Zhège `dìdiǎn` bèi zhàlan wéileqǐlái",
+                        "english": "The `site` is marked off with a fence"
+                    }
+                    ,
+                    {
+                        "chinese": "他满意`地点`点头",
+                        "pinyin": "Tā mǎnyì de diǎndiǎntóu",
+                        "english": "He nodded with satisfaction"
+                    },
+                    {
+                        "chinese": "她理解`地点`点头",
+                        "pinyin": "Tā lǐjiě de diǎndiǎntóu",
+                        "english": "She nodded understandingly"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "估计",
+        "pinyin": "gū jì",
+        "english": "to estimate; to reckon",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "我`估计`明天能完工",
+                        "pinyin": "Wǒ `gūjì` míngtiān néngwángōng",
+                        "english": "I `reckon` we should be able to finish tomorrow"
+                    },
+                    {
+                        "chinese": "这是个保守的`估计`",
+                        "pinyin": "Zhèshìgè bǎoshǒude `gūjì`",
+                        "english": "This is a conservative `estimate`"
+                    },
+                    {
+                        "chinese": "他当即`估计了`一下形势",
+                        "pinyin": "Tā dāngjí `gūjìle` yíxià xíngshì",
+                        "english": "He `sized up` the situation immediately"
+                    }
+                    ,
+                    {
+                        "chinese": "专家`估计`税收会增加",
+                        "pinyin": "Zhuānjiā `gūjì` shuìshōu huì zēngjiā",
+                        "english": "The experts are `anticipating` a raise in taxes"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "烦恼",
+        "pinyin": "fán nǎo",
+        "english": "worried; agonize; agony; annoyance; upset; vexation; worries",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "你不要为小事`烦恼`",
+                        "pinyin": "Nǐ búyào wèi xiǎoshì `fánnǎo`",
+                        "english": "You shouldn't `worry` about little things"
+                    },
+                    {
+                        "chinese": "为某事感到`烦恼`",
+                        "pinyin": "Wèi mǒushì gǎndào `fánnǎo`",
+                        "english": "`to be upset `about something"
+                    },
+                    {
+                        "chinese": "我用睡觉来摆脱`烦恼`",
+                        "pinyin": "Wǒ yòng shuìjiào lái bǎituō `fánnǎo`",
+                        "english": "I sleep my problems away"
+                    }
+                    ,
+                    {
+                        "chinese": "不要为这事`烦恼`",
+                        "pinyin": "Búyào wéi zhè shì `fánnǎo`",
+                        "english": "Don't `stress` over it"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "丰富",
+        "pinyin": "fēng fù",
+        "english": "plentiful; abundant; enrich",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`丰富`多彩的生活",
+                        "pinyin": "`fēngfù`duōcǎide shēnghuó",
+                        "english": "a `full` and interesting life"
+                    },
+                    {
+                        "chinese": "他们的文化生活很`丰富`",
+                        "pinyin": "Tāmen de wénhuà shēnghuó hěn `fēngfù`",
+                        "english": "They have a `rich` cultural life"
+                    },
+                    {
+                        "chinese": "地下蕴含着`丰富`的铁矿",
+                        "pinyin": "Dìxià yùnhán zhe `fēngfù` de tiěkuàng",
+                        "english": "There are `rich` iron mines underground"
+                    }
+                    ,
+                    {
+                        "chinese": "水果中含有`丰富`的营养",
+                        "pinyin": "Shuǐguǒ zhōng hányǒu `fēngfù` de yíngyǎng",
+                        "english": "Fruit contains `a lot` of nutrients"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "答案",
+        "pinyin": "dá àn",
+        "english": "answer; solution",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "他的`答案`不对",
+                        "pinyin": "Tā de dá'àn búduì",
+                        "english": "His answer was wrong"
+                    },
+                    {
+                        "chinese": "`答案`明显错了",
+                        "pinyin": "`Dá'àn` míngxiǎn cuòle",
+                        "english": "The `answer` is obviously wrong"
+                    },
+                    {
+                        "chinese": "`答案`在他的脸上显而易见",
+                        "pinyin": "`Dá'àn` zài tā de liǎn shàng xiǎn'éryìjiàn",
+                        "english": "The `answer` had been staring him in the face"
+                    }
+                    ,
+                    {
+                        "chinese": "有些问题还是没有`答案`的好",
+                        "pinyin": "Yǒuxiē wèntí háishì méiyǒu `dá'àn` de hǎo",
+                        "english": "Certain questions are better left without a`nswer`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "不得不",
+        "pinyin": "bùdébù",
+        "english": " have no choice but to; cannot but; have to; can't avoid",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "我`不得不`离开",
+                        "pinyin": "Wǒ `bùdébù` líkāi",
+                        "english": "I `have to` push along"
+                    },
+                    {
+                        "chinese": "我`不得不`承认… ",
+                        "pinyin": "Wǒ `bùdébù` chéngrèn …",
+                        "english": "I `must` admit that..."
+                    },
+                    {
+                        "chinese": "感到`不得不`做某事",
+                        "pinyin": "Gǎndào `bùdébù` zuò mǒushì",
+                        "english": "to feel `compelled to` do something"
+                    }
+                    ,
+                    {
+                        "chinese": "我`不得不`再一次从头开始",
+                        "pinyin": "Wǒ `bùdébù` zàiyícì cóngtóukāishǐ",
+                        "english": "I'll `have to` start all over again"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "故意",
+        "pinyin": "gù yì",
+        "english": "deliberately; on purpose",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "那不是`故意的`",
+                        "pinyin": "Nà búshì `gùyì de`",
+                        "english": "it wasn't `deliberate`"
+                    },
+                    {
+                        "chinese": "我相信他不是`故意的`",
+                        "pinyin": "Wǒ xiāngxìn tā búshì `gùyì de`",
+                        "english": "I'm sure he didn't `mean to`"
+                    },
+                    {
+                        "chinese": "我是`故意`这样做的",
+                        "pinyin": "Wǒ shì `gùyì` zhèyàng zuò de",
+                        "english": "I did this `by choice`"
+                    }
+                    ,
+                    {
+                        "chinese": "对不起，我不是`故意的`",
+                        "pinyin": "Duìbuqǐ，wǒ búshì `gùyì de`",
+                        "english": "I'm sorry, I didn't do it `on purpose`"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "chinese": "降低",
+        "pinyin": "jiàng dī",
+        "english": "to reduce; to lower; to bring down",
+        "measureword":"",
+        "audio": "",
+        "sentences": [
+            {
+                "examples": [
+                    {
+                        "chinese": "`降低`生活开支",
+                        "pinyin": "`jiàngdī` shēnghuó kāizhī",
+                        "english": "`reduce` living expenses"
+                    },
+                    {
+                        "chinese": "她把价格`降低了`十欧元",
+                        "pinyin": "Tā bǎ jiàgé `jiàngdīle` shí ōuyuán",
+                        "english": "She took 10 euros `of` the price"
+                    },
+                    {
+                        "chinese": "这个项目的要求再次被`降低`",
+                        "pinyin": "Zhège xiàngmù de yāoqiú zàicì bèi `jiàngdī`",
+                        "english": "The project is `geared down` once again"
+                    }
+                    ,
+                    {
+                        "chinese": "油价另辟蹊径来`降低`费用",
+                        "pinyin": "Yóujià lìngpìxījìng lái `jiàngdī` fèiyòng",
+                        "english": "Gas prices bring on new ways `to cut` corners"
                     }
                 ]
             }

@@ -17,8 +17,9 @@ def writeToCsvFile(importFileName, exportFileName):
     with open(exportFileName, 'w') as exportFile:
         writer = csv.writer(exportFile)
         for i in  data:
-            writer.writerow(["chinese", "pinyin", "english", "encodedcard"])
-            writer.writerow([i['chinese'] , i['pinyin'] , i['english'] , urlencode(json.dumps(i, ensure_ascii=False))])
+            if i["chinese"] != "" :
+                writer.writerow(["chinese", "pinyin", "english", "encodedcard"])
+                writer.writerow([i['chinese'] , i['pinyin'] , i['english'] , urlencode(json.dumps(i, ensure_ascii=False))])
 
 parser = argparse.ArgumentParser("Export Json to CSV")
 
@@ -28,6 +29,8 @@ parser.add_argument("ofile", help="output file")
 args = parser.parse_args()
 
 writeToCsvFile(args.ifile, args.ofile)
+
+
 
 
 
